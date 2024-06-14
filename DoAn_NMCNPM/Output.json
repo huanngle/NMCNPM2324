@@ -1,0 +1,896 @@
+[
+    {
+        "ID_Conference": "IDC001",
+        "Conference": "BSides Cheltenham",
+        "Place": "Cheltenham",
+        "Time": "06/01/24"
+    },
+    {
+        "ID_Conference": "IDC002",
+        "Conference": "WordCamp Montclair 2024",
+        "Place": "Montclair",
+        "Time": "06/01/24"
+    },
+    {
+        "ID_Conference": "IDC003",
+        "Conference": "Belgrade Blockchain Week",
+        "Place": "Belgrade",
+        "Time": "06/01/24"
+    },
+    {
+        "ID_Conference": "IDC004",
+        "Conference": "BSides Buffalo 2024",
+        "Place": "Buffalo",
+        "Time": "06/01/24"
+    },
+    {
+        "ID_Conference": "IDC005",
+        "Conference": "PolyCloud",
+        "Place": "Montpellier",
+        "Time": "06/01/24"
+    },
+    {
+        "ID_Conference": "IDC006",
+        "Conference": "T-DOSE",
+        "Place": "Geldrop",
+        "Time": "06/01/24"
+    },
+    {
+        "ID_Conference": "IDC007",
+        "Conference": "DevOpsDays Nairobi",
+        "Place": "Nairobi",
+        "Time": "06/01/24"
+    },
+    {
+        "ID_Conference": "IDC008",
+        "Conference": "Agile Real Life",
+        "Place": "Madrid",
+        "Time": "06/01/24"
+    },
+    {
+        "ID_Conference": "IDC009",
+        "Conference": "DevFest Pisa",
+        "Place": "Pisa",
+        "Time": "06/01/24"
+    },
+    {
+        "ID_Conference": "IDC010",
+        "Conference": "openEuler Developer Day 2024",
+        "Place": "Shenzhen",
+        "Time": "06/01/24"
+    },
+    {
+        "ID_Conference": "IDC011",
+        "Conference": "CollabDays Netherlands 2024",
+        "Place": "Vianen",
+        "Time": "06/01/24"
+    },
+    {
+        "ID_Conference": "IDC012",
+        "Conference": "Agile + DevOps West 2024",
+        "Place": "Las Vegas",
+        "Time": "06/02/24"
+    },
+    {
+        "ID_Conference": "IDC013",
+        "Conference": "Agile + DevOps West 2024 Online",
+        "Place": "Las Vegas",
+        "Time": "06/02/24"
+    },
+    {
+        "ID_Conference": "IDC014",
+        "Conference": "Cisco Live 2024",
+        "Place": "Las Vegas",
+        "Time": "06/02/24"
+    },
+    {
+        "ID_Conference": "IDC015",
+        "Conference": "AI Con USA",
+        "Place": "Bratislava",
+        "Time": "06/02/24"
+    },
+    {
+        "ID_Conference": "IDC016",
+        "Conference": "Community Over Code EU",
+        "Place": "New York",
+        "Time": "06/03/24"
+    },
+    {
+        "ID_Conference": "IDC017",
+        "Conference": "Future of Work USA",
+        "Place": "National Harbor",
+        "Time": "06/03/24"
+    },
+    {
+        "ID_Conference": "IDC018",
+        "Conference": "Gartner Security & Risk Management Summit",
+        "Place": "Belgrade",
+        "Time": "06/03/24"
+    },
+    {
+        "ID_Conference": "IDC019",
+        "Conference": "ETH Belgrade",
+        "Place": "Orlando",
+        "Time": "06/03/24"
+    },
+    {
+        "ID_Conference": "IDC020",
+        "Conference": "SAP Sapphire Orlando",
+        "Place": "Klofta",
+        "Time": "06/03/24"
+    },
+    {
+        "ID_Conference": "IDC021",
+        "Conference": "HasrauCon",
+        "Place": "Hemelum",
+        "Time": "06/03/24"
+    },
+    {
+        "ID_Conference": "IDC022",
+        "Conference": "EUCtech Spring",
+        "Place": "San Francisco",
+        "Time": "06/03/24"
+    },
+    {
+        "ID_Conference": "IDC023",
+        "Conference": "JSail Unconference",
+        "Place": "Budapest",
+        "Time": "06/03/24"
+    },
+    {
+        "ID_Conference": "IDC024",
+        "Conference": "Data Cloud Summit 2024",
+        "Place": "Nieuwegein",
+        "Time": "06/03/24"
+    },
+    {
+        "ID_Conference": "IDC025",
+        "Conference": "OpenInfra Day Hungary",
+        "Place": "Amsterdam",
+        "Time": "06/03/24"
+    },
+    {
+        "ID_Conference": "IDC026",
+        "Conference": "Experts Live Netherlands 2024",
+        "Place": "Chicago",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC027",
+        "Conference": "Money20/20 Europe",
+        "Place": "Coimbra",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC028",
+        "Conference": "U.S. Fintech Symposium",
+        "Place": "London",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC029",
+        "Conference": "JNation 2024",
+        "Place": "Ottawa",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC030",
+        "Conference": "Infosecurity Europe",
+        "Place": "Hyderabad",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC031",
+        "Conference": "CDAO Canada Public Sector",
+        "Place": "Lisbon",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC032",
+        "Conference": "ICSA 2024",
+        "Place": "Bolzano",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC033",
+        "Conference": "SAP Sapphire Virtual",
+        "Place": "Sankt Leon-Rot",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC034",
+        "Conference": "Xen Project Summit 2024",
+        "Place": "Stockholm",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC035",
+        "Conference": "DevOpsDays Ukraine: Let's Talk Security",
+        "Place": "Sao Paulo",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC036",
+        "Conference": "XP 2024",
+        "Place": "London",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC037",
+        "Conference": "re>\u2261CAP",
+        "Place": "Goteborg",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC038",
+        "Conference": "Frontend Nation",
+        "Place": "Vigo",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC039",
+        "Conference": "AWS Summit Stockholm",
+        "Place": "Dubai",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC040",
+        "Conference": "IBM TechXchange: Automation Workshop",
+        "Place": "Tallinn",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC041",
+        "Conference": "SaaStr Europa 2024",
+        "Place": "Santa Clara",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC042",
+        "Conference": "IBM TechXchange: AI in business, in reality",
+        "Place": "St. Leon-Rot",
+        "Time": "06/04/24"
+    },
+    {
+        "ID_Conference": "IDC043",
+        "Conference": "DjangoCon.eu Vigo 2024",
+        "Place": "Santa Clara",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC044",
+        "Conference": "Front End Performance Day",
+        "Place": "Berlin",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC045",
+        "Conference": "Generative AI Middle East Summit 2024",
+        "Place": "Santa Clara",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC046",
+        "Conference": "Nordic Testing Days",
+        "Place": "Madrid",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC047",
+        "Conference": "Upstream 2024",
+        "Place": "Barcelona",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC048",
+        "Conference": "Cyber Security & Cloud Congress North America",
+        "Place": "Barcelona",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC049",
+        "Conference": "AI Dev Summit 2024 Online",
+        "Place": "Santa Clara",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC050",
+        "Conference": "UI5con Germany",
+        "Place": "Phoenix",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC051",
+        "Conference": "TechEx North America",
+        "Place": "Washington",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC052",
+        "Conference": "Icinga Summit 2024",
+        "Place": "Athens",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC053",
+        "Conference": "Blockchain Expo North America",
+        "Place": "San Francisco",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC054",
+        "Conference": "DeveloperWeek Europe 2024",
+        "Place": "Darmstadt",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC055",
+        "Conference": "DeveloperWeek Latin America 2024",
+        "Place": "Prague",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC056",
+        "Conference": "AWS Summit Madrid",
+        "Place": "Helsinki",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC057",
+        "Conference": "Penpot Fest 24",
+        "Place": "Verona",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC058",
+        "Conference": "Women of Chorus One: Connect & Collaborate",
+        "Place": "Copenhagen",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC059",
+        "Conference": "TechEx North America 2024",
+        "Place": "Lille",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC060",
+        "Conference": "Machine Learning Week",
+        "Place": "Bengaluru",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC061",
+        "Conference": "FedTalks 2024",
+        "Place": "Abuja",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC062",
+        "Conference": "The Arm Revolution in Cloud-Native Computing",
+        "Place": "Belagavi",
+        "Time": "06/05/24"
+    },
+    {
+        "ID_Conference": "IDC063",
+        "Conference": "CityJS Athens",
+        "Place": "Belgrade",
+        "Time": "06/06/24"
+    },
+    {
+        "ID_Conference": "IDC064",
+        "Conference": "Droidcon San Francisco",
+        "Place": "Geneva",
+        "Time": "06/06/24"
+    },
+    {
+        "ID_Conference": "IDC065",
+        "Conference": "Days of Knowledge Central 2024",
+        "Place": "Aix-en-Provence",
+        "Time": "06/06/24"
+    },
+    {
+        "ID_Conference": "IDC066",
+        "Conference": "KCD Czech & Slovak 2024",
+        "Place": "Vienna",
+        "Time": "06/06/24"
+    },
+    {
+        "ID_Conference": "IDC067",
+        "Conference": "SymfonyOnline June",
+        "Place": "Chi\u0219inau",
+        "Time": "06/06/24"
+    },
+    {
+        "ID_Conference": "IDC068",
+        "Conference": "IglooConf 2024: Midsummer",
+        "Place": "Amsterdam",
+        "Time": "06/06/24"
+    },
+    {
+        "ID_Conference": "IDC069",
+        "Conference": "Roboto Conference",
+        "Place": "Zurich",
+        "Time": "06/06/24"
+    },
+    {
+        "ID_Conference": "IDC070",
+        "Conference": "Tech passion day 2024",
+        "Place": "Athens",
+        "Time": "06/06/24"
+    },
+    {
+        "ID_Conference": "IDC071",
+        "Conference": "DevFest Lille",
+        "Place": "Faenza",
+        "Time": "06/06/24"
+    },
+    {
+        "ID_Conference": "IDC072",
+        "Conference": "SUGCON India 2024",
+        "Place": "Medellin",
+        "Time": "06/06/24"
+    },
+    {
+        "ID_Conference": "IDC073",
+        "Conference": "Indabax Nigeria 2024",
+        "Place": "Rouen",
+        "Time": "06/06/24"
+    },
+    {
+        "ID_Conference": "IDC074",
+        "Conference": "AI & Big Data Expo",
+        "Place": "Santa Clara, CA",
+        "Time": "06/05/2024"
+    },
+    {
+        "ID_Conference": "IDC075",
+        "Conference": "Cyber Security & Cloud Congress",
+        "Place": "Santa Clara, CA",
+        "Time": "06/05/2024"
+    },
+    {
+        "ID_Conference": "IDC076",
+        "Conference": "London Tech Week",
+        "Place": "person",
+        "Time": "06/10/2024"
+    },
+    {
+        "ID_Conference": "IDC077",
+        "Conference": "AWS re:Inforce",
+        "Place": "Philadelphia",
+        "Time": "06/10/2024"
+    },
+    {
+        "ID_Conference": "IDC078",
+        "Conference": "Apple's WWDC",
+        "Place": null,
+        "Time": "06/10/2024"
+    },
+    {
+        "ID_Conference": "IDC079",
+        "Conference": "Render Tech Conference & Music Festival",
+        "Place": "Atlanta",
+        "Time": "06/12/2024"
+    },
+    {
+        "ID_Conference": "IDC080",
+        "Conference": "Boston Cybersecurity Conference",
+        "Place": "person",
+        "Time": "06/13/2024"
+    },
+    {
+        "ID_Conference": "IDC081",
+        "Conference": "Ace!",
+        "Place": "Krakow, Poland",
+        "Time": "06/13/2024"
+    },
+    {
+        "ID_Conference": "IDC082",
+        "Conference": "HackSummit ClimateTech",
+        "Place": "Lausanne, Switzerland",
+        "Time": "06/13/2024"
+    },
+    {
+        "ID_Conference": "IDC083",
+        "Conference": "React Summit",
+        "Place": "Amsterdam",
+        "Time": "06/14/2024"
+    },
+    {
+        "ID_Conference": "IDC084",
+        "Conference": "North American Information Security Summit",
+        "Place": "Denver, CO",
+        "Time": "06/16/2024"
+    },
+    {
+        "ID_Conference": "IDC085",
+        "Conference": "TECHSPO",
+        "Place": "Philadelphia",
+        "Time": "06/17/2024"
+    },
+    {
+        "ID_Conference": "IDC086",
+        "Conference": "DASH by Datadog",
+        "Place": "New York City",
+        "Time": "06/25/2024"
+    },
+    {
+        "ID_Conference": "IDC087",
+        "Conference": "TECHSPO",
+        "Place": "Atlanta",
+        "Time": "06/27/2024"
+    },
+    {
+        "ID_Conference": "IDC088",
+        "Conference": "Women Impact Tech",
+        "Place": "San Francisco",
+        "Time": "07/11/2024"
+    },
+    {
+        "ID_Conference": "IDC089",
+        "Conference": "TECHSPO",
+        "Place": "Dallas",
+        "Time": "07/11/2024"
+    },
+    {
+        "ID_Conference": "IDC090",
+        "Conference": "SANS Security Awareness: Managing Human Risk Summit",
+        "Place": "Norfolk, VA",
+        "Time": "07/29/2024"
+    },
+    {
+        "ID_Conference": "IDC091",
+        "Conference": "CompTIA ChannelCon 2024",
+        "Place": "Atlanta",
+        "Time": "07/30/2024"
+    },
+    {
+        "ID_Conference": "IDC092",
+        "Conference": "Black Hat USA",
+        "Place": "Las Vegas",
+        "Time": "08/03/2024"
+    },
+    {
+        "ID_Conference": "IDC093",
+        "Conference": "TDWI Transform San Diego",
+        "Place": "person",
+        "Time": "08/04/2024"
+    },
+    {
+        "ID_Conference": "IDC094",
+        "Conference": "CIO 100 Symposium & Awards",
+        "Place": "Colorado Springs, CO",
+        "Time": "08/05/2024"
+    },
+    {
+        "ID_Conference": "IDC095",
+        "Conference": "CDAO Chicago",
+        "Place": "person",
+        "Time": null
+    },
+    {
+        "ID_Conference": "IDC096",
+        "Conference": "TECHSPO",
+        "Place": "Auckland, New Zealand",
+        "Time": "08/08/2024"
+    },
+    {
+        "ID_Conference": "IDC097",
+        "Conference": "CISO Executive Network",
+        "Place": "Sydney, Australia",
+        "Time": "08/12/2024"
+    },
+    {
+        "ID_Conference": "IDC098",
+        "Conference": "TECHSPO",
+        "Place": "Sydney, Australia",
+        "Time": "08/14/2024"
+    },
+    {
+        "ID_Conference": "IDC099",
+        "Conference": "CISO Singapore",
+        "Place": "person",
+        "Time": "08/20/2024"
+    },
+    {
+        "ID_Conference": "IDC100",
+        "Conference": "Women Impact Tech Virtual Accelerate Conference",
+        "Place": "Atlanta",
+        "Time": "08/22/2024"
+    },
+    {
+        "ID_Conference": "IDC101",
+        "Conference": "VMware Explore",
+        "Place": "Las Vegas",
+        "Time": "08/26/2024"
+    },
+    {
+        "ID_Conference": "IDC102",
+        "Conference": "CISO Brisbane",
+        "Place": "Brisbane, Australia",
+        "Time": "08/27/2024"
+    },
+    {
+        "ID_Conference": "IDC103",
+        "Conference": "CIO Edge",
+        "Place": "Sydney, Australia",
+        "Time": "08/29/2024"
+    },
+    {
+        "ID_Conference": "IDC104",
+        "Conference": "TECHSPO",
+        "Place": "London",
+        "Time": "08/29/2024"
+    },
+    {
+        "ID_Conference": "IDC105",
+        "Conference": "CDAO Melbourne",
+        "Place": "person",
+        "Time": "09/02/2024"
+    },
+    {
+        "ID_Conference": "IDC106",
+        "Conference": "CEDIA Expo",
+        "Place": "Denver, CO",
+        "Time": "09/05/2024"
+    },
+    {
+        "ID_Conference": "IDC107",
+        "Conference": "CDAO Brazil",
+        "Place": "Sao Paulo",
+        "Time": "09/10/2024"
+    },
+    {
+        "ID_Conference": "IDC108",
+        "Conference": "Data Expo",
+        "Place": "Utrecht, The Netherlands",
+        "Time": "09/11/2024"
+    },
+    {
+        "ID_Conference": "IDC109",
+        "Conference": "TECHSPO",
+        "Place": "Amsterdam",
+        "Time": "09/12/2024"
+    },
+    {
+        "ID_Conference": "IDC110",
+        "Conference": "Data Architecture Singapore",
+        "Place": "person",
+        "Time": "09/17/2024"
+    },
+    {
+        "ID_Conference": "IDC111",
+        "Conference": "Gartner ReimagineHR Conference",
+        "Place": "London",
+        "Time": "09/17/2024"
+    },
+    {
+        "ID_Conference": "IDC112",
+        "Conference": "Dreamforce",
+        "Place": "San Francisco",
+        "Time": "09/17/2024"
+    },
+    {
+        "ID_Conference": "IDC113",
+        "Conference": "CDAO Government",
+        "Place": "Washington, D",
+        "Time": "09/17/2024"
+    },
+    {
+        "ID_Conference": "IDC114",
+        "Conference": "Lesbians Who Tech",
+        "Place": "New York",
+        "Time": "09/17/2024"
+    },
+    {
+        "ID_Conference": "IDC115",
+        "Conference": "TECHSPO",
+        "Place": "Singapore",
+        "Time": "09/19/2024"
+    },
+    {
+        "ID_Conference": "IDC116",
+        "Conference": "TECHSPO",
+        "Place": "New Delhi, India",
+        "Time": "09/25/2024"
+    },
+    {
+        "ID_Conference": "IDC117",
+        "Conference": "Women Impact Tech Virtual Accelerate Conference",
+        "Place": "Denver, CO",
+        "Time": "09/26/2024"
+    },
+    {
+        "ID_Conference": "IDC118",
+        "Conference": "FutureIT Toronto",
+        "Place": "person",
+        "Time": "09/26/2024"
+    },
+    {
+        "ID_Conference": "IDC119",
+        "Conference": "Industry of Things World Europe",
+        "Place": "Berlin, Germany",
+        "Time": "09/29/2024"
+    },
+    {
+        "ID_Conference": "IDC120",
+        "Conference": "Cyber Security & Cloud Expo Europe",
+        "Place": "Amsterdam",
+        "Time": "10/01/2024"
+    },
+    {
+        "ID_Conference": "IDC121",
+        "Conference": "TECHSPO",
+        "Place": "Dubai, UAE",
+        "Time": "10/01/2024"
+    },
+    {
+        "ID_Conference": "IDC122",
+        "Conference": "Mobile World Congress",
+        "Place": "Las Vegas",
+        "Time": "10/08/2024"
+    },
+    {
+        "ID_Conference": "IDC123",
+        "Conference": "World Summit AI",
+        "Place": "Amsterdam",
+        "Time": "10/09/2024"
+    },
+    {
+        "ID_Conference": "IDC124",
+        "Conference": "DPW Amsterdam",
+        "Place": null,
+        "Time": "10/09/2024"
+    },
+    {
+        "ID_Conference": "IDC125",
+        "Conference": "TECHSPO",
+        "Place": "Johannesburg, South Africa",
+        "Time": "10/10/2024"
+    },
+    {
+        "ID_Conference": "IDC126",
+        "Conference": "ISC2\u2019s Security Congress",
+        "Place": "Las Vegas",
+        "Time": "10/14/2024"
+    },
+    {
+        "ID_Conference": "IDC127",
+        "Conference": "CDAO Malaysia",
+        "Place": "person",
+        "Time": "10/15/2024"
+    },
+    {
+        "ID_Conference": "IDC128",
+        "Conference": "CDAO Fall",
+        "Place": "Boston",
+        "Time": "10/15/2024"
+    },
+    {
+        "ID_Conference": "IDC129",
+        "Conference": "TECHSPO",
+        "Place": "Cape Town, South Africa",
+        "Time": "10/16/2024"
+    },
+    {
+        "ID_Conference": "IDC130",
+        "Conference": "CDAO Europe",
+        "Place": "Amsterdam",
+        "Time": "10/16/2024"
+    },
+    {
+        "ID_Conference": "IDC131",
+        "Conference": "Generative AI Summit",
+        "Place": "Boston",
+        "Time": "10/17/2024"
+    },
+    {
+        "ID_Conference": "IDC132",
+        "Conference": "TDWI Transform",
+        "Place": "Orlando",
+        "Time": "10/20/2024"
+    },
+    {
+        "ID_Conference": "IDC133",
+        "Conference": "CompTIA EMEA Member & Partner Conference 2024",
+        "Place": "London",
+        "Time": "10/21/2024"
+    },
+    {
+        "ID_Conference": "IDC134",
+        "Conference": "TECHSPO Silicon Valley",
+        "Place": "San Francisco",
+        "Time": "10/21/2024"
+    },
+    {
+        "ID_Conference": "IDC135",
+        "Conference": "CSO 50",
+        "Place": "Fort McDowell, AZ",
+        "Time": "10/21/2024"
+    },
+    {
+        "ID_Conference": "IDC136",
+        "Conference": "Gartner IT Symposium/Xpo 2024",
+        "Place": "Orlando, FL",
+        "Time": "10/21/2024"
+    },
+    {
+        "ID_Conference": "IDC137",
+        "Conference": "TECHSPO",
+        "Place": "Phoenix, AZ",
+        "Time": "10/24/2024"
+    },
+    {
+        "ID_Conference": "IDC138",
+        "Conference": "AI DevWorld",
+        "Place": "Santa Clara, CA",
+        "Time": "10/24/2024"
+    },
+    {
+        "ID_Conference": "IDC139",
+        "Conference": "TECHSPO",
+        "Place": "Las Vegas",
+        "Time": "10/28/2024"
+    },
+    {
+        "ID_Conference": "IDC140",
+        "Conference": "AI DevWorld",
+        "Place": null,
+        "Time": "10/31/2024"
+    },
+    {
+        "ID_Conference": "IDC141",
+        "Conference": "Deep Learning Summit",
+        "Place": "London",
+        "Time": "11/04/2024"
+    },
+    {
+        "ID_Conference": "IDC142",
+        "Conference": "DeveloperWeek CloudX",
+        "Place": "San Mateo, CA",
+        "Time": "11/05/2024"
+    },
+    {
+        "ID_Conference": "IDC143",
+        "Conference": "Women Impact Tech",
+        "Place": "New York City",
+        "Time": "11/07/2024"
+    },
+    {
+        "ID_Conference": "IDC144",
+        "Conference": "Future of SaaS",
+        "Place": "London",
+        "Time": "11/08/2024"
+    },
+    {
+        "ID_Conference": "IDC145",
+        "Conference": "DeveloperWeek CloudX",
+        "Place": null,
+        "Time": "11/12/2024"
+    },
+    {
+        "ID_Conference": "IDC146",
+        "Conference": "KubeCon + CloudNativeCon North America",
+        "Place": "Salt Lake City, UT",
+        "Time": "11/12/2024"
+    },
+    {
+        "ID_Conference": "IDC147",
+        "Conference": "React Summit",
+        "Place": "NY",
+        "Time": "11/13/2024"
+    },
+    {
+        "ID_Conference": "IDC148",
+        "Conference": "Banking 4.0 and Banking Innovation Conference",
+        "Place": "Berlin",
+        "Time": null
+    },
+    {
+        "ID_Conference": "IDC149",
+        "Conference": "Gartner Identity & Access Management Summit",
+        "Place": "Grapevine, TX",
+        "Time": "12/09/2024"
+    }
+]

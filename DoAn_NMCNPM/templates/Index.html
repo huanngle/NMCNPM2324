@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Conference List</title>
+</head>
+<body>
+    <form action="/" method="get">
+        <input type="text" name="search" placeholder="Search conferences..." value="{{ request.args.get('search', '') }}">
+        <button type="submit">Search</button>
+    </form>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Place</th>
+            <th>Time</th>
+        </tr>
+        {% for conference in conferences %}
+        <tr>
+            <td>{{ conference.ID_Conference }}</td>
+            <td>{{ conference.Name_Conference }}</td>
+            <td>{{ conference.Place }}</td>
+            <td>{{ conference.Time }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

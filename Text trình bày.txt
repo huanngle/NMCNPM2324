@@ -1,0 +1,26 @@
+Cài đặt IDE, ở đây e sử dụng ide pycharm và python 3.12
+Các thư viện:
+- beautifulsoup4 4.12.3
+- Flask 3.0.3
+- Numpy 1.26.4
+- pandas 2.2.2
+- pyodbc 5.1.0
+- SQLAlchemy 2.0.30
+- selenium 4.21.0 
+- webbrowser
+- re
+- JSon
+
+2 trang web được chọn để craw là: 
+https://dev.events/it -> web 1
+https://www.techrepublic.com/article/top-tech-conferences-events/ ->tương tự các thể ở web 2 tương ứng ạ, e có 2 hàm để lọc lại cho đúng định dạng ạ
+
+Ở web 1 do là web scroll, nên e lấy request url để lấy thêm dữ liệu
+
+Sau khi có dữ liệu e sẽ lưu vào file JSON và lưu vào csdl MS SQL
+
+Từ database e tạo web để người dùng tương tác, bằng kết nối với csdl
+
+đây là file html, có chức năng tìm kiếm
+
+E xin phép chạy thử
